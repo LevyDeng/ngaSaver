@@ -1,4 +1,4 @@
 data
-*/.secrets
+**/.secrets
 **/__pycache__
 **/.vscode
